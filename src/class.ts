@@ -1,7 +1,11 @@
 class Animal {
     name: string,
     species: string,
-    sound: string,
+    sound: string
+
+    constructor(name:string, species:string, sound:string){
+        
+    }
 }
 
 
