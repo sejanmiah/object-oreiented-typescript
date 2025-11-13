@@ -11,6 +11,11 @@ class Animal {
 }
 
 
+const dog = new Animal('Dogesh bhai', 'dog', 'gheu gheu')
+
+
+console.log(dog.name)
+
 // function add (num1 : number, num2:number) {
 
 // }
